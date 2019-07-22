@@ -5,7 +5,4 @@ public class OverloadDemo {
     void test(int a){
         System.out.println("value of A="+a);
     }
-    void test(int a,int b){
-        System.out.println("A and B ="+a+" "+b);
-    }
 }
